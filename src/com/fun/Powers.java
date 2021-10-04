@@ -2,9 +2,6 @@ package com.fun;
 
 import java.math.BigInteger;
 
-/**
- * Created by rab4154 on 7/10/2015.
- */
 public class Powers
 {
     public static void main(String[] args)

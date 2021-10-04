@@ -2,9 +2,6 @@ package com.fun;
 
 import java.util.*;
 
-/**
- * Created by rab4154 on 4/3/2017.
- */
 public class MinMax {
     public static void main(String[] args)
     {

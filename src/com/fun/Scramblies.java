@@ -1,8 +1,5 @@
 package com.fun;
 
-/**
- * Created by rab4154 on 10/10/2016.
- */
 public class Scramblies
 {
     public static void main(String[] args)

@@ -2,9 +2,6 @@ package com.fun;
 
 import java.util.Arrays;
 
-/**
- * Created by rab4154 on 7/10/2015.
- */
 public class DescendingOrder
 {
     public static void main(String[] args)

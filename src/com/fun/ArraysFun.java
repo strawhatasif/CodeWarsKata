@@ -3,9 +3,6 @@ package com.fun;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by rab4154 on 7/10/2015.
- */
 public class ArraysFun
 {
 

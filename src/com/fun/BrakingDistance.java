@@ -1,8 +1,5 @@
 package com.fun;
 
-/**
- * Created by rab4154 on 3/22/2017.
- */
 public class BrakingDistance {
     /**
      * calculate the stopping distance provided the vehicle's mass and mu

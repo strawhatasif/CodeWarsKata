@@ -1,9 +1,5 @@
 package com.fun;
 
-
-/**
- * Created by rab4154 on 7/10/2015.
- */
 public class BuyCar
 {
     public static void main(String[] args)

@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringJoiner;
 
-/**
- * Created by rab4154 on 4/3/2017.
- */
 public class Diamond {
 
     private static final String ASTERISK = "*";

@@ -3,9 +3,6 @@ package com.fun;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by rab4154 on 7/10/2015.
- */
 public class SearchEngine
 {
     public static void main(String[] args)

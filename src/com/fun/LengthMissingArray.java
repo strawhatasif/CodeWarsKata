@@ -2,9 +2,6 @@ package com.fun;
 
 import java.util.Arrays;
 
-/**
- * Created by rab4154 on 10/11/2016.
- */
 public class LengthMissingArray
 {
     public static void main(String[] args)

@@ -1,8 +1,5 @@
 package com.fun;
 
-/**
- * Created by rab4154 on 11/23/2015.
- */
 public class CalculateRotation
 {
     public static void main(String[] args)
