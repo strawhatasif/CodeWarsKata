@@ -3,9 +3,6 @@ package com.fun;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by rab4154 on 3/22/2017.
- */
 public class DirectionsReducer {
 
     public static void main(String[] args)
